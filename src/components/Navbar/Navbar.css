@@ -13,13 +13,16 @@
 }
 
 .navbar__logo {
-  position: relative;
-  font-weight: 800;
-  width: 200px;
-  height: 100px;
+  color: #ff9f1a;
+  font-family: "MonteCarlo", cursive;
+  font-size: 2.5rem;
+  /* position: relative; */
+  /* font-weight: 800; */
+  /* width: 200px;
+  height: 100px; */
 }
 
-.q {
+/* .q {
   position: absolute;
   color: rgb(177, 177, 16);
   font-family: "Sora", sans-serif;
@@ -47,7 +50,7 @@
   font-size: 25px;
   font-weight: normal;
   color: white;
-}
+} */
 
 .navbar__list {
   display: flex;

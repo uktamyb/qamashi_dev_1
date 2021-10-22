@@ -12,12 +12,13 @@ const Navbar = ({ navbarLinks }) => {
     <nav className="navbar">
       {/* Logo */}
       <span className="navbar__logo">
-        <span className="q">
+        Qamashi_Devs
+        {/* <span className="q">
           Q <span className="qamashi">amashi</span>
         </span>
         <span className="d">
           D <span className="devs">evs</span>
-        </span>
+        </span> */}
       </span>
       {/* Navbar */}
       {menuClicked ? (
